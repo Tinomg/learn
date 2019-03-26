@@ -1,3 +1,4 @@
 # learning GitHub
 def martiinGit():
-    pass
+    return "Hi martin"
+martiinGit()
